@@ -1,4 +1,3 @@
-<link href="file:///home/lighttiger/Documents/ltdocs/css/github.css" rel="stylesheet" />
 
 ##Vim基本操作
 
